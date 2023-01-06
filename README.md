@@ -30,7 +30,16 @@
     -  The client runs in the foreground and is shown on the screen
   - https://asidefine.tistory.com/109
 - Week 09 : Pthreads
-  - 
+  - Matrix-vector multiplication using multi-threading
   - https://asidefine.tistory.com/123
-- Week 10 :
-  - 
+- Week 10 : Concurrent Programming
+  - Make chatting room using select( )
+  - https://asidefine.tistory.com/136
+- Week 11 : Synchronization 1
+  - Making parallel version for Monte Carlo Method
+    - Each thread must create random points and count the number of points that are inside the circle
+  - https://asidefine.tistory.com/142
+- Week 12 : Synchronization 2 
+  - Make Producer & Consumer working concurrently
+  - https://asidefine.tistory.com/137
+
