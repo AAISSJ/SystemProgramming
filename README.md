@@ -15,8 +15,8 @@
   - https://asidefine.tistory.com/89
 - Week 05 : Signals
   - Make queued signal 
-    - Sender is parent process
-    - Receiver is child process
+  - Sender is parent process
+  - Receiver is child process
   - https://asidefine.tistory.com/92
 - Week 06 : IPC
   -   
