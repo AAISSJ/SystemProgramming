@@ -15,17 +15,19 @@
   - https://asidefine.tistory.com/89
 - Week 05 : Signals
   - Make queued signal 
-  - Sender is parent process
-  - Receiver is child process
+    - Sender is parent process
+    - Receiver is child process
   - https://asidefine.tistory.com/92
 - Week 06 : IPC
-  -   
+  - Make mini shell which supports I/O redirection & pipes
   - https://asidefine.tistory.com/94  
 - Week 07 : System V IPC
-  - 
+  - Make chatting program 
   - https://asidefine.tistory.com/98
 - Week 08 : Sockets
-  -
+  - Make file transfer
+    -  The server runs in the background by attaching & when running
+    -  The client runs in the foreground and is shown on the screen
   - https://asidefine.tistory.com/109
 - Week 09 : Pthreads
   - 
