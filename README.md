@@ -6,16 +6,29 @@
 - Week 02 : File I/O
   - Create "Aladdin_num.txt" file which has line numbers preceding all text lines
   - Only use open(), close(), read(), write()
+  - https://asidefine.tistory.com/75
 - Week 03 : Process
   - Make a simple mini shell
+  - https://asidefine.tistory.com/81
 - Week 04 : Daemon
   - Make a simple cron daemon
+  - https://asidefine.tistory.com/89
 - Week 05 : Signals
   - Make queued signal 
-  -  Sender is parent process
-  - Receiver is child process
-- Week 06 : 
-- Week 07 :
-- Week 08 :
-- Week 09 : 
+    - Sender is parent process
+    - Receiver is child process
+  - https://asidefine.tistory.com/92
+- Week 06 : IPC
+  -   
+  - https://asidefine.tistory.com/94  
+- Week 07 : System V IPC
+  - 
+  - https://asidefine.tistory.com/98
+- Week 08 : Sockets
+  -
+  - https://asidefine.tistory.com/109
+- Week 09 : Pthreads
+  - 
+  - https://asidefine.tistory.com/123
 - Week 10 :
+  - 
