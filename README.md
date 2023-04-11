@@ -1,6 +1,6 @@
 # System Programming Lab
 
-- SWE2024 (Fall, 2021)
+- SWE2024 (Fall, 2021) / Grade : A+
 
 - Week 01 : Shell & Makefile & Git
   - Write your own makefile to compile main.c, plus.c, and minus.c
